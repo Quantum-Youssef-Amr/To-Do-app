@@ -67,13 +67,6 @@ It contains:
 
 ---
 
-## **Screenshots (Optional to add on GitHub)**
-
-* **Login Page**
-* **Todo App Page**
-
----
-
 ## **License**
 
 This project is for educational purposes. You can modify and use it freely.
